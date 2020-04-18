@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: ""
+  publicPath: "Salary_list/components"
 };
