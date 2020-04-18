@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "parleto_project/components"
+  publicPath: "/Salary_list/"
 };
